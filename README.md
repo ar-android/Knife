@@ -1,0 +1,2 @@
+# Knife
+Contoh penggunaan Java Annotation Interface pada project android. Project ini adalah source dari artikel https://medium.com/@ocittwo/menggunakan-java-annotation-interface-pada-android-edc1e5e6b672
